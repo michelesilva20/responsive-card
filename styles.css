@@ -38,8 +38,8 @@ body{
 
 .card{
   max-width: var(--desktop);
-  width: 20%;
-  height: 65vh;
+  width: 25%;
+  height: 420px;
   background-color: var(--white);
   border-radius: 0 0.5rem 0.5rem 0;
   overflow: hidden;
@@ -48,8 +48,8 @@ body{
 
 .card-img{
   max-width: var(--desktop);
-  width: 20%;
-  height: 65vh;
+  width: 25%;
+  height: 420px;
   background-color: var(--white);
   border-radius: 0.5rem 0 0 0.5rem;
   overflow: hidden;
