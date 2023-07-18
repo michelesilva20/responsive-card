@@ -82,6 +82,7 @@ body{
   color: var(--dark-grayish-blue);
   font-size: var(--paragraph);
   margin: 1.3rem 0;
+  line-height: 1.4rem;
 }
 
 .price{
